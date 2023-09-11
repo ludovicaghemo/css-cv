@@ -1,3 +1,6 @@
-body {
-    background-color: aquamarine;
+header {
+    background-color: #ededed;
+    text-align: center;
+    border-bottom: 2px solid goldenrod;
+
 }
