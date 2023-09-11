@@ -14,3 +14,9 @@ header {
 .subsection-title {
     font-style: italic;
 }
+
+/* Footer */
+hr {
+    border-color: goldenrod;
+    border-style: solid;
+}
